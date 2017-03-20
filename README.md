@@ -1,2 +1,2 @@
 # simple-chat-client
-A simple node.js chat client
+Web client for a simple chat demonstration
